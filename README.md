@@ -6,7 +6,7 @@ written in python
 
 usage:
 
-wd.py <vector> <port>
+wd.py \<vector\> \<port\>
 
 LICENSE
 ===================================
